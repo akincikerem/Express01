@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from KRM !
+      Hello from KRM 2 !
     </section>
   </body>
 </html>
